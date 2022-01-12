@@ -11,7 +11,6 @@ interface Props {
 
 export default function Weather({ lat, lon }: Props) {
   const { data, error, isLoading } = useWeatherQuery({ lat, lon });
-  console.log(data);
 
   if (isLoading)
     return (
