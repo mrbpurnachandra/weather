@@ -31,7 +31,7 @@ export default function Weather({ lat, lon }: Props) {
         <div className="flex flex-col items-center">
           <div className="h-24 w-24 bg-indigo-500 rounded-full p-1">
             <img
-              src={`http://openweathermap.org/img/wn/${data?.weather[0].icon}@2x.png`}
+              src={`https://openweathermap.org/img/wn/${data?.weather[0].icon}@2x.png`}
               alt={data?.weather[0].main}
             />
           </div>
