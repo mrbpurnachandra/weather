@@ -6,4 +6,4 @@ This app is created with react and tailwindcss. I used RTK query for data fetchi
 
 ![image](https://user-images.githubusercontent.com/49053623/149159814-5b9e76d1-4172-4d49-8785-77a95bf92b59.png)
 
-[https://nifty-villani-775585.netlify.app/](See app live)
+[SEE APP LIVE](https://nifty-villani-775585.netlify.app/)
